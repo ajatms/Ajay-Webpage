@@ -1,0 +1,39 @@
+.outer-box{
+    width: 200px;
+    height: 200px;
+    border: solid 5px;
+    background: green;
+    color: azure;
+    padding: 10px;  /* for text in div */
+    margin-left: 20px;
+}
+
+.box1{
+    width: 200px;
+    height: 100px;
+    margin: 10px;  /* for div */
+    background: royalblue;
+    border-color: brown;
+}
+
+.box2{
+    width: 40%;
+    height: 30%;
+    background: gold;
+}
+
+.box3{
+    width: 40%;
+    height: 30%;
+    background: green;
+}
+
+.box4{
+    width: 40%;
+    height: 30%;
+    background: cyan;
+}
+
+.para{
+    color: white;
+}
